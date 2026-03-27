@@ -3,4 +3,3 @@ do
   echo "Commit $i" >> commits.txt
   git add .
   git commit -m "Commit $i"
-done
